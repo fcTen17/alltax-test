@@ -11,3 +11,9 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+#shopTitle {
+  background-color: white;
+  border-bottom: 4px red solid;
+  padding-left: 10px;
+}
